@@ -37,10 +37,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fastbook-master" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.Sum_n_to_n">
+  <component name="RunManager" selected="Python.unicode">
     <configuration name="Sum_n_to_n" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sum_one_to_n_while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ggg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +120,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\ryanjung\Desktop\Algorithm_study\Zero_to_all_Algorithm\Sum_one_to_n_while.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zero_to_all_Algorithm/ggg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="branch2a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="unicode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,7 +142,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zero_to_all_Algorithm/branch2a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zero_to_all_Algorithm/unicode.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.unicode" />
+        <item itemvalue="Python.ggg" />
         <item itemvalue="Python.Sum_n_to_n" />
         <item itemvalue="Python.Sum_one_to_n_gauss" />
         <item itemvalue="Python.Sum_one_to_n_for" />
-        <item itemvalue="Python.Sum_one_to_n_while" />
-        <item itemvalue="Python.branch2a" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +170,12 @@
       <option name="presentableId" value="Default" />
       <updated>1596440351521</updated>
       <workItem from="1596440353300" duration="398000" />
-      <workItem from="1596440775442" duration="3602000" />
+      <workItem from="1596440775442" duration="4959000" />
+      <workItem from="1597069606950" duration="2320000" />
+      <workItem from="1598788298502" duration="25000" />
+      <workItem from="1599889033908" duration="11556000" />
+      <workItem from="1600175888944" duration="889000" />
+      <workItem from="1600957776637" duration="473000" />
     </task>
     <servers />
   </component>
@@ -178,22 +183,54 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1711" height="331" key="GridCell.Tab.0.bottom" timestamp="1596445057971">
+    <state x="557" y="338" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600958192629">
       <screen x="0" y="0" width="1760" height="1222" />
     </state>
-    <state width="1711" height="331" key="GridCell.Tab.0.bottom/0.0.1760.1222@0.0.1760.1222" timestamp="1596445057971" />
-    <state width="1711" height="331" key="GridCell.Tab.0.center" timestamp="1596445057971">
-      <screen x="0" y="0" width="1760" height="1222" />
+    <state x="557" y="338" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1760.1222@0.0.1760.1222" timestamp="1600958192629" />
+    <state x="551" y="146" key="FileChooserDialogImpl" timestamp="1598788320922">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1711" height="331" key="GridCell.Tab.0.center/0.0.1760.1222@0.0.1760.1222" timestamp="1596445057971" />
-    <state width="1711" height="331" key="GridCell.Tab.0.left" timestamp="1596445057970">
-      <screen x="0" y="0" width="1760" height="1222" />
+    <state x="551" y="146" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598788320922" />
+    <state width="885" height="387" key="GridCell.Tab.0.bottom" timestamp="1600177711776">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1711" height="331" key="GridCell.Tab.0.left/0.0.1760.1222@0.0.1760.1222" timestamp="1596445057970" />
-    <state width="1711" height="331" key="GridCell.Tab.0.right" timestamp="1596445057971">
-      <screen x="0" y="0" width="1760" height="1222" />
+    <state width="1334" height="331" key="GridCell.Tab.0.bottom/0.0.1760.1222@0.0.1760.1222" timestamp="1596448090343" />
+    <state width="907" height="331" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600008638891" />
+    <state width="885" height="387" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1600177711776" />
+    <state width="885" height="387" key="GridCell.Tab.0.center" timestamp="1600177711776">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1711" height="331" key="GridCell.Tab.0.right/0.0.1760.1222@0.0.1760.1222" timestamp="1596445057971" />
+    <state width="1334" height="331" key="GridCell.Tab.0.center/0.0.1760.1222@0.0.1760.1222" timestamp="1596448090343" />
+    <state width="907" height="331" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600008638891" />
+    <state width="885" height="387" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1600177711776" />
+    <state width="885" height="387" key="GridCell.Tab.0.left" timestamp="1600177711776">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1334" height="331" key="GridCell.Tab.0.left/0.0.1760.1222@0.0.1760.1222" timestamp="1596448090343" />
+    <state width="907" height="331" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600008638891" />
+    <state width="885" height="387" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1600177711776" />
+    <state width="885" height="387" key="GridCell.Tab.0.right" timestamp="1600177711776">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1334" height="331" key="GridCell.Tab.0.right/0.0.1760.1222@0.0.1760.1222" timestamp="1596448090343" />
+    <state width="907" height="331" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600008638891" />
+    <state width="885" height="387" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1600177711776" />
+    <state width="907" height="331" key="GridCell.Tab.1.bottom" timestamp="1600008638892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="907" height="331" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600008638892" />
+    <state width="907" height="331" key="GridCell.Tab.1.center" timestamp="1600008638891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="907" height="331" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600008638891" />
+    <state width="907" height="331" key="GridCell.Tab.1.left" timestamp="1600008638891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="907" height="331" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600008638891" />
+    <state width="907" height="331" key="GridCell.Tab.1.right" timestamp="1600008638892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="907" height="331" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600008638892" />
     <state x="381" y="255" key="SettingsEditor" timestamp="1596442061384">
       <screen x="0" y="0" width="1760" height="1222" />
     </state>
@@ -206,6 +243,8 @@
     <SUITE FILE_PATH="coverage/Algorithm_study$Sum_n_to_n.coverage" NAME="Sum_n_to_n Coverage Results" MODIFIED="1596445057961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zero_to_all_Algorithm" />
     <SUITE FILE_PATH="coverage/Algorithm_study$branch2a.coverage" NAME="branch2a Coverage Results" MODIFIED="1596442758536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zero_to_all_Algorithm" />
     <SUITE FILE_PATH="coverage/Algorithm_study$Sum_one_to_n.coverage" NAME="Sum_one_to_n Coverage Results" MODIFIED="1596444261792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zero_to_all_Algorithm" />
+    <SUITE FILE_PATH="coverage/Algorithm_study$ggg.coverage" NAME="ggg Coverage Results" MODIFIED="1599900440721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zero_to_all_Algorithm" />
+    <SUITE FILE_PATH="coverage/Algorithm_study$unicode.coverage" NAME="unicode Coverage Results" MODIFIED="1600176177886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zero_to_all_Algorithm" />
     <SUITE FILE_PATH="coverage/Algorithm_study$judge_Num_Sign.coverage" NAME="judge_Num_Sign Coverage Results" MODIFIED="1596442425301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zero_to_all_Algorithm" />
     <SUITE FILE_PATH="coverage/Algorithm_study$branch1.coverage" NAME="branch1 Coverage Results" MODIFIED="1596442562064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zero_to_all_Algorithm" />
   </component>
