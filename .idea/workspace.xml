@@ -40,7 +40,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../fastbook-master" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.sequential_search_example">
+  <component name="RunManager" selected="Python.binary_search_example">
     <configuration name="Sum_n_to_n" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sum_one_to_n_gauss" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="binary_search_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,12 +71,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zero_to_all_Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coding_exam_study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zero_to_all_Algorithm/Sum_one_to_n_gauss.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ryanjung\Desktop\Algorithm_study\coding_exam_study\binary_search_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.binary_search_example" />
         <item itemvalue="Python.sequential_search_example" />
         <item itemvalue="Python.unicode" />
         <item itemvalue="Python.ggg" />
         <item itemvalue="Python.Sum_n_to_n" />
-        <item itemvalue="Python.Sum_one_to_n_gauss" />
       </list>
     </recent_temporary>
   </component>
@@ -176,6 +176,7 @@
       <workItem from="1599889033908" duration="11556000" />
       <workItem from="1600175888944" duration="889000" />
       <workItem from="1600957776637" duration="473000" />
+      <workItem from="1600958295718" duration="1196000" />
     </task>
     <servers />
   </component>
@@ -191,28 +192,28 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="551" y="146" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598788320922" />
-    <state width="885" height="387" key="GridCell.Tab.0.bottom" timestamp="1600177711776">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1709" height="330" key="GridCell.Tab.0.bottom" timestamp="1601045613585">
+      <screen x="0" y="0" width="1760" height="1222" />
     </state>
-    <state width="1334" height="331" key="GridCell.Tab.0.bottom/0.0.1760.1222@0.0.1760.1222" timestamp="1596448090343" />
+    <state width="1709" height="330" key="GridCell.Tab.0.bottom/0.0.1760.1222@0.0.1760.1222" timestamp="1601045613585" />
     <state width="907" height="331" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600008638891" />
     <state width="885" height="387" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1600177711776" />
-    <state width="885" height="387" key="GridCell.Tab.0.center" timestamp="1600177711776">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1709" height="330" key="GridCell.Tab.0.center" timestamp="1601045613585">
+      <screen x="0" y="0" width="1760" height="1222" />
     </state>
-    <state width="1334" height="331" key="GridCell.Tab.0.center/0.0.1760.1222@0.0.1760.1222" timestamp="1596448090343" />
+    <state width="1709" height="330" key="GridCell.Tab.0.center/0.0.1760.1222@0.0.1760.1222" timestamp="1601045613585" />
     <state width="907" height="331" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600008638891" />
     <state width="885" height="387" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1600177711776" />
-    <state width="885" height="387" key="GridCell.Tab.0.left" timestamp="1600177711776">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1709" height="330" key="GridCell.Tab.0.left" timestamp="1601045613585">
+      <screen x="0" y="0" width="1760" height="1222" />
     </state>
-    <state width="1334" height="331" key="GridCell.Tab.0.left/0.0.1760.1222@0.0.1760.1222" timestamp="1596448090343" />
+    <state width="1709" height="330" key="GridCell.Tab.0.left/0.0.1760.1222@0.0.1760.1222" timestamp="1601045613585" />
     <state width="907" height="331" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600008638891" />
     <state width="885" height="387" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1600177711776" />
-    <state width="885" height="387" key="GridCell.Tab.0.right" timestamp="1600177711776">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1709" height="330" key="GridCell.Tab.0.right" timestamp="1601045613585">
+      <screen x="0" y="0" width="1760" height="1222" />
     </state>
-    <state width="1334" height="331" key="GridCell.Tab.0.right/0.0.1760.1222@0.0.1760.1222" timestamp="1596448090343" />
+    <state width="1709" height="330" key="GridCell.Tab.0.right/0.0.1760.1222@0.0.1760.1222" timestamp="1601045613585" />
     <state width="907" height="331" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600008638891" />
     <state width="885" height="387" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1600177711776" />
     <state width="907" height="331" key="GridCell.Tab.1.bottom" timestamp="1600008638892">
@@ -240,7 +241,9 @@
     <SUITE FILE_PATH="coverage/Algorithm_study$branch2.coverage" NAME="branch2 Coverage Results" MODIFIED="1596442652460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zero_to_all_Algorithm" />
     <SUITE FILE_PATH="coverage/Algorithm_study$Sum_one_to_n_for.coverage" NAME="Sum_one_to_n_for Coverage Results" MODIFIED="1596444600799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zero_to_all_Algorithm" />
     <SUITE FILE_PATH="coverage/Algorithm_study$Sum_one_to_n_gauss.coverage" NAME="Sum_one_to_n_gauss Coverage Results" MODIFIED="1596444812682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zero_to_all_Algorithm" />
+    <SUITE FILE_PATH="coverage/Algorithm_study$binary_search.coverage" NAME="binary_search Coverage Results" MODIFIED="1601045456982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coding_exam_study" />
     <SUITE FILE_PATH="coverage/Algorithm_study$Sum_n_to_n.coverage" NAME="Sum_n_to_n Coverage Results" MODIFIED="1596445057961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zero_to_all_Algorithm" />
+    <SUITE FILE_PATH="coverage/Algorithm_study$sequential_search_example.coverage" NAME="sequential_search_example Coverage Results" MODIFIED="1600958435404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coding_exam_study" />
     <SUITE FILE_PATH="coverage/Algorithm_study$branch2a.coverage" NAME="branch2a Coverage Results" MODIFIED="1596442758536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zero_to_all_Algorithm" />
     <SUITE FILE_PATH="coverage/Algorithm_study$Sum_one_to_n.coverage" NAME="Sum_one_to_n Coverage Results" MODIFIED="1596444261792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zero_to_all_Algorithm" />
     <SUITE FILE_PATH="coverage/Algorithm_study$ggg.coverage" NAME="ggg Coverage Results" MODIFIED="1599900440721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zero_to_all_Algorithm" />
